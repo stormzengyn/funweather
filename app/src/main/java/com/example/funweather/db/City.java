@@ -1,9 +1,9 @@
 package com.example.funweather.db;
 
-import org.litepal.crud.DataSupport;
+import org.litepal.crud.LitePalSupport;
 
 
-public class City extends DataSupport {
+public class City extends LitePalSupport {
 
     private int id;
 

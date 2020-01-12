@@ -30,7 +30,6 @@
         <activity android:name=".WeatherActivity1" />
         <activity android:name=".WeatherActivity2" />
         <activity android:name=".WeatherActivity3" />
-        <activity android:name=".test" />
 
         <service
             android:name=".service.AutoUpdateService"
